@@ -1,0 +1,4 @@
+Added Component: Designator=U?(D-PAK SIP-G5/Z10.9)
+Added Pin To Net: NetName=NetR4_2 Pin=U?-4
+Added Pin To Net: NetName=NetR4_1 Pin=U?-5
+Added Member To Class: ClassName=powerSupply Member=Component U? NCP5661

@@ -1,0 +1,94 @@
+Change Component Footprint: Designator=C38 Old Footprint=B New Footprint=CC3225-1210
+Change Component Comment : Designator=RG1 Old Comment=NCP5661 New Comment=NCP5661DT18RKG
+Added Component: Designator=C42(B)
+Added Component: Designator=C43(0603)
+Added Component: Designator=C44(B)
+Added Component: Designator=C45(0603)
+Added Component: Designator=C46(C0805)
+Added Component: Designator=C47(C0805)
+Added Component: Designator=C48(0603)
+Added Component: Designator=C50(B)
+Added Component: Designator=R12(J1-0603)
+Added Component: Designator=R13(J1-0603)
+Added Component: Designator=R14(J1-0603)
+Added Component: Designator=R17(J1-0603)
+Added Component: Designator=R19(J1-0603)
+Added Component: Designator=R20(J1-0603)
+Added Component: Designator=R21(J1-0603)
+Added Component: Designator=R22(J1-0603)
+Added Component: Designator=RG2(D-PAK SIP-G5/Z10.9)
+Added Component: Designator=RG3(ONSC-MICRO-8-846A-02_H_V)
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C50-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=RG2-3
+Added Pin To Net: NetName=GND Pin=RG3-4
+Change Net Name : Old Net Name=VCC_18 New Net Name=VDD_18
+Added Pin To Net: NetName=5V Pin=C44-1
+Added Pin To Net: NetName=5V Pin=C47-1
+Added Pin To Net: NetName=5V Pin=C50-1
+Added Pin To Net: NetName=5V Pin=RG2-2
+Added Pin To Net: NetName=5V Pin=RG3-7
+Added Pin To Net: NetName=5V Pin=RG3-8
+Added Net: Name=5V
+Added Pin To Net: NetName=ENABLE_VDD_33 Pin=R14-1
+Added Pin To Net: NetName=ENABLE_VDD_33 Pin=R17-2
+Added Net: Name=ENABLE_VDD_33
+Added Pin To Net: NetName=ENABLE_VDD_PIX Pin=R21-1
+Added Pin To Net: NetName=ENABLE_VDD_PIX Pin=R22-2
+Added Net: Name=ENABLE_VDD_PIX
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=NetC43_1 Pin=R12-1
+Added Pin To Net: NetName=NetC43_1 Pin=R13-2
+Added Pin To Net: NetName=NetC43_1 Pin=RG2-5
+Added Net: Name=NetC43_1
+Added Pin To Net: NetName=NetC45_1 Pin=C45-1
+Added Pin To Net: NetName=NetC45_1 Pin=RG3-5
+Added Net: Name=NetC45_1
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=R19-1
+Added Pin To Net: NetName=NetC48_2 Pin=R20-2
+Added Pin To Net: NetName=NetC48_2 Pin=RG3-3
+Added Net: Name=NetC48_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=RG2-1
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=RG3-6
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=VDD_33 Pin=C42-1
+Added Pin To Net: NetName=VDD_33 Pin=C43-2
+Added Pin To Net: NetName=VDD_33 Pin=R12-2
+Added Pin To Net: NetName=VDD_33 Pin=RG2-4
+Added Net: Name=VDD_33
+Added Pin To Net: NetName=VDD_PIX Pin=C46-1
+Added Pin To Net: NetName=VDD_PIX Pin=C48-1
+Added Pin To Net: NetName=VDD_PIX Pin=R20-1
+Added Pin To Net: NetName=VDD_PIX Pin=RG3-1
+Added Pin To Net: NetName=VDD_PIX Pin=RG3-2
+Added Net: Name=VDD_PIX
+Added Member To Class: ClassName=powerSupply Member=Component C42 T494B
+Added Member To Class: ClassName=powerSupply Member=Component C43 C0603
+Added Member To Class: ClassName=powerSupply Member=Component C44 T494B
+Added Member To Class: ClassName=powerSupply Member=Component C45 C0603
+Added Member To Class: ClassName=powerSupply Member=Component C46 Cap Pol3
+Added Member To Class: ClassName=powerSupply Member=Component C47 Cap Pol3
+Added Member To Class: ClassName=powerSupply Member=Component C48 C0603
+Added Member To Class: ClassName=powerSupply Member=Component C50 T494B
+Added Member To Class: ClassName=powerSupply Member=Component R12 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R13 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R14 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R17 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R19 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R20 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R21 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R22 Res3
+Added Member To Class: ClassName=powerSupply Member=Component RG2 NCP5661DT33RKG
+Added Member To Class: ClassName=powerSupply Member=Component RG3 NCP3335ADMADJR2G,

@@ -1,0 +1,2 @@
+Added Component: Designator=IC1(TSSOP16_N)
+Added Member To Class: ClassName=powerSupply Member=Component IC1 CAT9554A, 8bit I2C port expander

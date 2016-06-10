@@ -1,0 +1,56 @@
+Added Component: Designator=C41(0603)
+Added Component: Designator=R8(J1-0603)
+Added Component: Designator=R9(J1-0603)
+Added Component: Designator=R10(J1-0603)
+Added Component: Designator=R11(J1-0603)
+Added Component: Designator=R15(J1-0603)
+Added Component: Designator=R16(J1-0603)
+Added Component: Designator=R18(J1-0603)
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=ENABLE_VDD_18 Pin=IC1-4
+Added Pin To Net: NetName=ENABLE_VDD_33 Pin=IC1-5
+Added Pin To Net: NetName=ENABLE_VDD_PIX Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=REV0 Pin=IC1-7
+Added Pin To Net: NetName=REV0 Pin=R8-2
+Added Net: Name=REV0
+Added Pin To Net: NetName=REV1 Pin=IC1-9
+Added Pin To Net: NetName=REV1 Pin=R9-2
+Added Net: Name=REV1
+Added Pin To Net: NetName=REV2 Pin=IC1-10
+Added Pin To Net: NetName=REV2 Pin=R15-2
+Added Net: Name=REV2
+Added Pin To Net: NetName=REV3 Pin=IC1-11
+Added Pin To Net: NetName=REV3 Pin=R16-2
+Added Net: Name=REV3
+Added Pin To Net: NetName=REV4 Pin=IC1-12
+Added Pin To Net: NetName=REV4 Pin=R18-2
+Added Net: Name=REV4
+Added Pin To Net: NetName=SCL Pin=IC1-14
+Added Pin To Net: NetName=SCL Pin=R10-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC1-15
+Added Pin To Net: NetName=SDA Pin=R11-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=C41-2
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIO Pin=IC1-3
+Added Pin To Net: NetName=VIO Pin=IC1-16
+Added Net: Name=VIO
+Added Member To Class: ClassName=powerSupply Member=Component C41 C0603
+Added Member To Class: ClassName=powerSupply Member=Component R8 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R9 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R10 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R11 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R15 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R16 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R18 Res3

@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=U? NewDesignator=RG1
+Added Component: Designator=C38(C1210)
+Added Component: Designator=C39(0603)
+Added Component: Designator=R5(J1-0603)
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=RG1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=NetC39_1 Pin=R4-1
+Added Pin To Net: NetName=NetC39_1 Pin=R5-2
+Added Pin To Net: NetName=NetC39_1 Pin=RG1-5
+Added Net: Name=NetC39_1
+Added Pin To Net: NetName=VCC_18 Pin=C38-2
+Added Pin To Net: NetName=VCC_18 Pin=C39-2
+Added Pin To Net: NetName=VCC_18 Pin=R4-2
+Added Pin To Net: NetName=VCC_18 Pin=RG1-4
+Added Net: Name=VCC_18
+Added Member To Class: ClassName=powerSupply Member=Component C38 
+Added Member To Class: ClassName=powerSupply Member=Component C39 C0603
+Added Member To Class: ClassName=powerSupply Member=Component R5 Res3

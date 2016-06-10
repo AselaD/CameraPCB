@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=VCC_18 Pin=C38-2
+Change Component DesignItemId : Designator=C38 Old DesignItemId=CDR33 New DesignItemId=T494B
+Change Component Footprint: Designator=C38 Old Footprint=C1210 New Footprint=B
+Change Component Comment : Designator=C38 Old Comment= New Comment=T494B
+Added Component: Designator=C40(B)
+Added Component: Designator=C49(B)
+Added Component: Designator=R6(J1-0603)
+Added Component: Designator=R7(J1-0603)
+Added Pin To Net: NetName=VCC_18 Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C49-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=+5 Pin=C40-1
+Added Pin To Net: NetName=+5 Pin=C49-1
+Added Pin To Net: NetName=+5 Pin=RG1-2
+Added Net: Name=+5
+Added Pin To Net: NetName=ENABLE_VDD_18 Pin=R6-1
+Added Pin To Net: NetName=ENABLE_VDD_18 Pin=R7-2
+Added Net: Name=ENABLE_VDD_18
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=RG1-1
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=powerSupply Member=Component C40 T494B
+Added Member To Class: ClassName=powerSupply Member=Component C49 T494B
+Added Member To Class: ClassName=powerSupply Member=Component R6 Res3
+Added Member To Class: ClassName=powerSupply Member=Component R7 Res3
