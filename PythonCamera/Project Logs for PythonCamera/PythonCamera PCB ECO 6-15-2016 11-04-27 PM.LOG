@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=SENSOR1A Old DesignItemId=Python ISP8 48LCC New DesignItemId=Python ISP8 84LCC
+Change Component DesignItemId : Designator=SENSOR1B Old DesignItemId=Python ISP8 48LCC New DesignItemId=Python ISP8 84LCC
+Change Component Footprint: Designator=SENSOR1A Old Footprint=LCC48 New Footprint=PLCC84_L
+Change Component Footprint: Designator=SENSOR1B Old Footprint=LCC48 New Footprint=PLCC84_L
+Change Component Comment : Designator=SENSOR1A Old Comment=Python ISP8 48LCC New Comment=Python ISP8 84LCC
+Change Component Comment : Designator=SENSOR1B Old Comment=Python ISP8 48LCC New Comment=Python ISP8 84LCC
