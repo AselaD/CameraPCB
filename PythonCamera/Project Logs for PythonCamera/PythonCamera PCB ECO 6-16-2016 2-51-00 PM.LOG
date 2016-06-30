@@ -1,0 +1,106 @@
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR1A-1
+Added Pin To Net: NetName=GND Pin=SENSOR1A-6
+Added Pin To Net: NetName=VDD_18 Pin=SENSOR1A-7
+Added Pin To Net: NetName=GND Pin=SENSOR1A-20
+Added Pin To Net: NetName=VDD_18 Pin=SENSOR1A-21
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR1A-23
+Added Pin To Net: NetName=GND Pin=SENSOR1A-24
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR1A-37
+Added Pin To Net: NetName=GND Pin=SENSOR1A-38
+Added Pin To Net: NetName=GND Pin=SENSOR1A-39
+Added Pin To Net: NetName=VDD_18 Pin=SENSOR1A-40
+Added Pin To Net: NetName=VDD_18 Pin=SENSOR1A-45
+Added Pin To Net: NetName=GND Pin=SENSOR1A-46
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR1A-49
+Added Pin To Net: NetName=GND Pin=SENSOR1A-50
+Added Pin To Net: NetName=VDD_PIX Pin=SENSOR1A-57
+Added Pin To Net: NetName=GND Pin=SENSOR1A-58
+Added Pin To Net: NetName=VDD_PIX Pin=SENSOR1A-60
+Added Pin To Net: NetName=GND Pin=SENSOR1A-61
+Added Pin To Net: NetName=GND Pin=SENSOR1A-62
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR1A-63
+Added Pin To Net: NetName=GND Pin=SENSOR1A-65
+Added Pin To Net: NetName=VDD_PIX Pin=SENSOR1A-66
+Added Pin To Net: NetName=GND Pin=SENSOR1A-67
+Added Pin To Net: NetName=VDD_PIX Pin=SENSOR1A-68
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR1A-79
+Added Pin To Net: NetName=GND Pin=SENSOR1A-80
+Added Pin To Net: NetName=GND Pin=SENSOR1A-84
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR2A-1
+Added Pin To Net: NetName=VDD_18 Pin=SENSOR2A-6
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR2A-19
+Added Pin To Net: NetName=VDD_18 Pin=SENSOR2A-22
+Added Pin To Net: NetName=VDD_18 Pin=SENSOR2A-26
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR2A-29
+Added Pin To Net: NetName=VDD_PIX Pin=SENSOR2A-31
+Added Pin To Net: NetName=VDD_PIX Pin=SENSOR2A-33
+Added Pin To Net: NetName=VDD_33 Pin=SENSOR2A-36
+Added Pin To Net: NetName=VDD_PIX Pin=SENSOR2A-38
+Added Pin To Net: NetName=VDD_PIX Pin=SENSOR2A-40
+Added Pin To Net: NetName=CLK_PLL Pin=SENSOR1B-44
+Added Net: Name=CLK_PLL
+Added Pin To Net: NetName=CLOCK_IN_N Pin=SENSOR1B-41
+Added Net: Name=CLOCK_IN_N
+Added Pin To Net: NetName=CLOCK_IN_P Pin=SENSOR1B-42
+Added Net: Name=CLOCK_IN_P
+Added Pin To Net: NetName=CLOCK_OUT_N Pin=SENSOR1B-15
+Added Net: Name=CLOCK_OUT_N
+Added Pin To Net: NetName=CLOCK_OUT_P Pin=SENSOR1B-14
+Added Net: Name=CLOCK_OUT_P
+Added Pin To Net: NetName=DOUT0_N Pin=SENSOR1B-10
+Added Net: Name=DOUT0_N
+Added Pin To Net: NetName=DOUT0_P Pin=SENSOR1B-11
+Added Net: Name=DOUT0_P
+Added Pin To Net: NetName=DOUT1_N Pin=SENSOR1B-8
+Added Net: Name=DOUT1_N
+Added Pin To Net: NetName=DOUT1_P Pin=SENSOR1B-9
+Added Net: Name=DOUT1_P
+Added Pin To Net: NetName=DOUT2_N Pin=SENSOR1B-16
+Added Net: Name=DOUT2_N
+Added Pin To Net: NetName=DOUT2_P Pin=SENSOR1B-17
+Added Net: Name=DOUT2_P
+Added Pin To Net: NetName=DOUT3_N Pin=SENSOR1B-18
+Added Net: Name=DOUT3_N
+Added Pin To Net: NetName=DOUT3_P Pin=SENSOR1B-19
+Added Net: Name=DOUT3_P
+Added Pin To Net: NetName=DOUT4_N Pin=SENSOR1B-25
+Added Net: Name=DOUT4_N
+Added Pin To Net: NetName=DOUT4_P Pin=SENSOR1B-26
+Added Net: Name=DOUT4_P
+Added Pin To Net: NetName=DOUT5_N Pin=SENSOR1B-27
+Added Net: Name=DOUT5_N
+Added Pin To Net: NetName=DOUT5_P Pin=SENSOR1B-28
+Added Net: Name=DOUT5_P
+Added Pin To Net: NetName=DOUT6_N Pin=SENSOR1B-35
+Added Net: Name=DOUT6_N
+Added Pin To Net: NetName=DOUT6_P Pin=SENSOR1B-36
+Added Net: Name=DOUT6_P
+Added Pin To Net: NetName=DOUT7_N Pin=SENSOR1B-33
+Added Pin To Net: NetName=DOUT7_N Pin=SENSOR1B-34
+Added Net: Name=DOUT7_N
+Added Pin To Net: NetName=IBIAS_MASTER Pin=SENSOR1B-47
+Added Net: Name=IBIAS_MASTER
+Added Pin To Net: NetName=MISO Pin=SENSOR1B-4
+Added Net: Name=MISO
+Added Pin To Net: NetName=MONITOR_0 Pin=SENSOR1B-78
+Added Net: Name=MONITOR_0
+Added Pin To Net: NetName=MONITOR_1 Pin=SENSOR1B-81
+Added Net: Name=MONITOR_1
+Added Pin To Net: NetName=MOSI Pin=SENSOR1B-3
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RESET_N Pin=SENSOR1B-82
+Added Net: Name=RESET_N
+Added Pin To Net: NetName=SCLK Pin=SENSOR1B-5
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SS_N Pin=SENSOR1B-83
+Added Net: Name=SS_N
+Added Pin To Net: NetName=SYNC_N Pin=SENSOR1B-29
+Added Net: Name=SYNC_N
+Added Pin To Net: NetName=SYNC_P Pin=SENSOR1B-30
+Added Net: Name=SYNC_P
+Added Pin To Net: NetName=TRIGGER_0 Pin=SENSOR1B-70
+Added Net: Name=TRIGGER_0
+Added Pin To Net: NetName=TRIGGER_1 Pin=SENSOR1B-71
+Added Net: Name=TRIGGER_1
+Added Pin To Net: NetName=TRIGGER_2 Pin=SENSOR1B-72
+Added Net: Name=TRIGGER_2
